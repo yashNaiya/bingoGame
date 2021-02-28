@@ -1,0 +1,9 @@
+we all have sometimes in our student lives have played bingo in boring class.
+bingo is among one of the games which are easy to understand and play.
+
+it is a multi-player game.in it each player draws his/her 5x5 grid and fill it up with numbers between 1 to 25.
+After that each player then by their turn tells one number which gets erased by every player,
+this continues untill one of the player wins.
+
+in bingo winner is the one who simply has 5 straight or horizontal lines complitley erased,every time player has turn to
+tell number he/she tells a number which will make it easier for them to complete their 5 lines erased. 
