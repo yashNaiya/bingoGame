@@ -4,6 +4,7 @@
 #include<windows.h>
 #include<string.h>
 using namespace std;
+/*i am doing some changes from github*/
 class page1
 {
     char username[20];
